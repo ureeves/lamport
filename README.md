@@ -3,6 +3,8 @@
 ## A Go package implementing Lamport signatures
 
 [![Build Status](https://travis-ci.org/ureeves/lamport.svg?branch=master)](https://travis-ci.org/ureeves/lamport)
+[![codecov](https://codecov.io/gh/ureeves/lamport/branch/master/graph/badge.svg)](https://codecov.io/gh/ureeves/lamport)
+[![GoDoc](https://godoc.org/github.com/ureeves/lamport?status.svg)](https://godoc.org/github.com/ureeves/lamport)
 
 Lamport signatures are a one-time signature scheme. Each key is intended to be used only once.
 
