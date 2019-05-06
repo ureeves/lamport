@@ -2,6 +2,8 @@
 
 ## A Go package implementing Lamport signatures
 
+[![Build Status](https://travis-ci.org/ureeves/lamport.svg?branch=master)](https://travis-ci.org/ureeves/lamport)
+
 Lamport signatures are a one-time signature scheme. Each key is intended to be used only once.
 
 ### Usage
